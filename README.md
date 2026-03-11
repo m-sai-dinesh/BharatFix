@@ -1,6 +1,6 @@
 # BharatFix - Civic Issue Reporting Platform
 
-BharatFix is a full-stack web application that allows Indian citizens to report civic issues (potholes, broken streetlights, garbage dumps, etc.) with GPS-verified location data. Reports are automatically routed to the responsible ward officer based on the detected location. Officers can update status, upload resolution photos, and close tickets. A super admin oversees the entire system across all Indian states.
+BharatFix is a full-stack web application that allows Indian citizens to report civic issues (potholes, broken streetlights, garbage dumps, etc.) with GPS-verified location data. Reports are automatically routed to the responsible ward officer based on the detected location. Officers can update status, upload resolution photos, and close tickets. A super admin oversees the  system across all Indian states.
 
 ---
 
