@@ -31,7 +31,7 @@ The platform has three distinct user roles: citizens, ward officers, and a super
 | Ward Officer | Logs in with officer code, views reports assigned to their ward, updates status, uploads resolution evidence |
 | Super Admin | Manages officers across all states, monitors all reports, views system-wide analytics, can delete any report |
 
-The system performs reverse geocoding using the OpenStreetMap Nominatim API to determine the state, district, and ward from GPS coordinates. Each report is stored in a state-specific MongoDB collection and routed to the appropriate ward officer automatically.
+The system performs reverse geocoding using the OpenStreetMap Nominatim API to determine the state, district, and ward from GPS coordinates.  report is stored in a state-specific MongoDB collection and routed to the appropriate ward officer automatically.
 
 ---
 
