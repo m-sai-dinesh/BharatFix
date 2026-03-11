@@ -4,7 +4,7 @@ BharatFix is a full-stack web application that allows Indian citizens to report 
 
 ---
 
-## Table of Contents
+### Table of Contents
 
 
 1. [System Overview](#system-overview)
